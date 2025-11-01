@@ -150,9 +150,4 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 - Maintainer: Durga-prasad-1 (GitHub)
 - Repo: https://github.com/Durga-prasad-1/AgriConnect
 
-Thanks for checking out AgriConnect! If you'd like, I can:
-- Tailor this README to the exact tech stack in your repo,
-- Add badges (build/test/coverage) and screenshots,
-- Generate a CONTRIBUTING.md, CODE_OF_CONDUCT.md, or GitHub Actions workflow.
-
-Which would you like next?
+Thanks for checking out AgriConnect!
